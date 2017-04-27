@@ -1,2 +1,4 @@
-# jspservlet
-a jsp-servlet project for learning.
+# jspservlet - a learning project
+Servlet.
+
+Filter.
